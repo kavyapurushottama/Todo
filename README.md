@@ -1,4 +1,4 @@
 # Js-Todo
-A simple todo list using Javascript
+A simple to-do list using Javascript
 
  
